@@ -2620,6 +2620,201 @@
       }
     },
     {
+      "name": "Hungarian Vizsla",
+      "basic_information": {
+        "size": "Medium (21-24 inches tall, 45-65 lbs)",
+        "origin": "Hungary",
+        "lifespan": "12-15 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Lean, muscular",
+        "head_shape": "Noble, slightly domed",
+        "eye_shape_and_color": "Oval, golden brown",
+        "ear_shape": "Thin, hanging close to cheeks",
+        "coat_type": "Short, smooth",
+        "coat_colors": "Golden rust",
+        "distinctive_features": "Liver-colored nose, sleek appearance"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Very high",
+        "curiosity": "Highly investigative",
+        "social_interaction": "Velcro-like attachment to owner",
+        "affection_level": "Extremely affectionate",
+        "independence": "Low (people-oriented)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Bonds intensely with family",
+        "with_pets": "Good with proper socialization",
+        "with_children": "Excellent with active kids",
+        "environment": "Needs space to run"
+      },
+      "health_profile": {
+        "lifespan": "12-15 years",
+        "common_genetic_issues": ["Hip dysplasia", "Epilepsy", "Allergies"],
+        "preventive_care": ["Joint supplements", "Allergy management", "Regular exercise"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "As needed",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with large yard essential",
+        "toys_and_enrichment": "Field work, running activities",
+        "temperature_sensitivity": "Moderate (provide shade)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Highly trainable (eager to please)",
+        "preferred_activities": "Hunting, agility, swimming",
+        "socialization_needs": "Early socialization important"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Very high",
+        "exercise_requirements": "Extremely high (2+ hours/day)",
+        "health_monitoring": "Joints, neurological health"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Right next to owner",
+        "sleep_cycle": "Deep sleeper after activity",
+        "activity_vs_rest": "Very active when awake",
+        "comfort_preferences": "Soft beds in family areas"
+      }
+    },
+    {
+      "name": "Italian Cane Corso",
+      "basic_information": {
+        "size": "Large (23-28 inches tall, 88-120 lbs)",
+        "origin": "Italy",
+        "lifespan": "9-12 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Powerful, athletic",
+        "head_shape": "Broad, molossus-type",
+        "eye_shape_and_color": "Oval, dark",
+        "ear_shape": "Triangular, cropped or natural",
+        "coat_type": "Short, stiff",
+        "coat_colors": "Black, gray, fawn, brindle",
+        "distinctive_features": "Imposing presence, cropped ears"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Moderate to high",
+        "curiosity": "Alert and watchful",
+        "social_interaction": "Reserved with strangers",
+        "affection_level": "Loyal to family",
+        "independence": "Moderate",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Devoted to family",
+        "with_pets": "May be dog-aggressive",
+        "with_children": "Protective with family kids",
+        "environment": "House with secure yard"
+      },
+      "health_profile": {
+        "lifespan": "9-12 years",
+        "common_genetic_issues": ["Hip dysplasia", "Bloat", "Eyelid abnormalities"],
+        "preventive_care": ["Joint supplements", "Slow feeders", "Eye exams"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing",
+        "bathing": "Every 2-3 months",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with yard",
+        "toys_and_enrichment": "Protection training, heavy chew toys",
+        "temperature_sensitivity": "Moderate (avoid extreme heat)"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Needs experienced handler",
+        "preferred_activities": "Guard work, obedience",
+        "socialization_needs": "Extensive early socialization"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "High (needs job/tasks)",
+        "health_monitoring": "Joints, stomach, eyes"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Guard positions near entryways",
+        "sleep_cycle": "Light sleeper (protective instinct)",
+        "activity_vs_rest": "Alert when awake",
+        "comfort_preferences": "Large orthopedic beds"
+      }
+    },
+    {
+      "name": "Jack Russell Terrier",
+      "basic_information": {
+        "size": "Small (10-15 inches tall, 13-17 lbs)",
+        "origin": "England",
+        "lifespan": "13-16 years"
+      },
+      "physical_characteristics": {
+        "body_structure": "Compact, athletic",
+        "head_shape": "Flat, wedge-shaped",
+        "eye_shape_and_color": "Almond, dark",
+        "ear_shape": "V-shaped, dropped",
+        "coat_type": "Smooth, rough or broken",
+        "coat_colors": "White with black/tan markings",
+        "distinctive_features": "Expressive face, high energy"
+      },
+      "personality_and_behavior": {
+        "activity_level": "Extremely high",
+        "curiosity": "Highly investigative",
+        "social_interaction": "Bold and feisty",
+        "affection_level": "Loyal but independent",
+        "independence": "Very high (terrier stubbornness)",
+        "intelligence": "Highly intelligent"
+      },
+      "social_compatibility": {
+        "with_humans": "Best with active owners",
+        "with_pets": "High prey drive (chases small animals)",
+        "with_children": "Good with older children",
+        "environment": "Needs secure outdoor space"
+      },
+      "health_profile": {
+        "lifespan": "13-16 years",
+        "common_genetic_issues": ["Lens luxation", "Deafness", "Patellar luxation"],
+        "preventive_care": ["Eye exams", "Hearing tests", "Joint supplements"]
+      },
+      "grooming_and_maintenance": {
+        "coat_maintenance": "Weekly brushing (more for rough coats)",
+        "bathing": "Monthly",
+        "ear_cleaning": "Weekly",
+        "nail_trimming": "Monthly",
+        "dental_hygiene": "Daily brushing"
+      },
+      "environmental_needs": {
+        "space": "House with secure yard essential",
+        "toys_and_enrichment": "Digging boxes, agility equipment",
+        "temperature_sensitivity": "Moderate"
+      },
+      "training_and_mental_stimulation": {
+        "training_ease": "Challenging (independent thinker)",
+        "preferred_activities": "Earthdog trials, agility",
+        "socialization_needs": "Early socialization critical"
+      },
+      "potential_challenges": {
+        "separation_anxiety": "Moderate",
+        "exercise_requirements": "Very high (needs job)",
+        "health_monitoring": "Eyes, hearing, knees"
+      },
+      "sleep_patterns_and_habits": {
+        "sleep_duration": "12-14 hours/day",
+        "preferred_sleeping_spots": "Burrowed in blankets",
+        "sleep_cycle": "Light sleeper (alert to noises)",
+        "activity_vs_rest": "Constant motion when awake",
+        "comfort_preferences": "Enclosed spaces (den-like)"
+      }
+    },
+    {
       "name": "Yorkshire Terrier"
     }
   ]
